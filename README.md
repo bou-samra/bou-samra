@@ -43,6 +43,11 @@ I'm a passionate software developer, Linux enthusiast, and open-source advocate.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
 
+### 🎮 Game Development
+![Simple DirectMedia Layer](https://img.shields.io/badge/Simple%20DirectMedia%20Layer-0000FF?logo=libsdl&logoColor=white)
+
+
+
 ## 🌱 I’m currently learning...
 - Cloud technologies like AWS and Azure
 - Machine Learning and AI concepts
