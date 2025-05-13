@@ -26,7 +26,7 @@ I’m a software developer with a broad skill set, specializing in low-level sys
   [![RISC OS](https://img.shields.io/badge/RISC_OS-9B4F96?style=flat&logo=risc-os&logoColor=white)](https://www.riscosopen.org/)
 
 ## 🧰 Development Tools
-  I’ve worked extensively with text editors like **Sublime Text**, **jEdit**, **SciTE**, **Visual Studio Code**, **Pulsar (Atom)**, and **Vim**, choosing the right one for each task.
+  I’ve worked extensively with text editors like **Sublime Text**, **jEdit**, **SciTE**, **Visual Studio Code**, **Pulsar (Atom)**, and **Vim**.
   [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
   [![jEdit](https://img.shields.io/badge/jEdit-1C2A2C?style=flat&logo=jedit&logoColor=white)](https://www.jedit.org/)
   [![SciTE](https://img.shields.io/badge/SciTE-2D537D?style=flat&logo=scite&logoColor=white)](https://www.scintilla.org/SciTE.html)
@@ -38,7 +38,7 @@ I’m a software developer with a broad skill set, specializing in low-level sys
   [![SDL](https://img.shields.io/badge/SDL-1E2328?style=flat&logo=gamepad&logoColor=white)](https://www.libsdl.org/) is a tool I frequently use for creating games, but I have also worked with a range of other development libraries.
 
 ## 🗂️ CMSs
-  Familiar with [**Joomla**](https://www.joomla.org/) and [**WordPress**](https://wordpress.org/), having built and managed multiple projects using these platforms.
+  Familiar with [**Joomla**](https://www.joomla.org/) and [**WordPress**](https://wordpress.org/), having built and managed multiple website using these platforms.
   [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.org/)
   [![Joomla](https://img.shields.io/badge/Joomla-5F5F5F?style=flat&logo=joomla&logoColor=white)](https://www.joomla.org/)
 
@@ -47,7 +47,7 @@ I’m a software developer with a broad skill set, specializing in low-level sys
   [![Open Source](https://img.shields.io/badge/Open%20Source-FF9B00?style=flat&logo=open-source-initiative&logoColor=white)](https://opensource.org/)
 
 ## ⚙️ Approach to Development
-I enjoy tackling problems at all levels of software development, whether that means optimizing code for efficiency or delving into the details of retro systems to understand how they work. I find satisfaction in solving real problems, whether for modern systems or those with much more limited resources.
+I enjoy addressing challenges across all levels of the software stack, from optimizing code for performance to exploring the intricacies of retro systems to understand their inner workings. Whether working with modern systems or resource-constrained environments, I find satisfaction in solving practical problems and improving efficiency.
 
 I prefer **C** for its flexability and efficiency, but I have experience with a range of programming languages, giving me flexibility in how I approach development tasks. I’m also passionate about **open-source software**—the freedom to collaborate and share knowledge is what drives innovation.
 
