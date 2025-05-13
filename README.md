@@ -4,7 +4,7 @@ I’m a software developer with a broad skill set, specializing in low-level sys
 
 # 🚀 Areas of Expertise:
 ## 🖋️ Languages
-  Programming languages of have experience with include:
+  Programming languages I have experience with include:
   
   [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
   [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
