@@ -4,6 +4,8 @@ I’m a software developer with a broad skill set, specializing in low-level sys
 
 # 🚀 Areas of Expertise:
 ## 🖋️ Languages
+  Programming languages of have experience with include:
+  
   [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
   [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
   [![Perl](https://img.shields.io/badge/Perl-2296E8?style=flat&logo=perl&logoColor=white)](https://www.perl.org/)
@@ -15,18 +17,23 @@ I’m a software developer with a broad skill set, specializing in low-level sys
   [![ASM 68000](https://img.shields.io/badge/ASM-68000-FFA073?style=flat&logo=chip&logoColor=white)](https://en.wikipedia.org/wiki/Motorola_68000)
 
 ## 🖥️ Platforms
+  Some of the platforms I have worked on:
+  
   [![Amiga](https://img.shields.io/badge/Amiga-ED1C24?style=flat&logo=amiga&logoColor=white)](https://en.wikipedia.org/wiki/Amiga)
   [![Apple IIGS](https://img.shields.io/badge/Apple_IIGS-888888?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Apple_IIGS)
   [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
+  [![x86_64](https://img.shields.io/badge/x86_64-1E90FF?style=flat&logo=none&logoColor=white)](https://en.wikipedia.org/wiki/X86_64)
 
 ## 💾 Operating Systems
   Proficient in UNIX-based systems, including **Linux** (Fedora) and **FreeBSD**
+
   [![Linux](https://img.shields.io/badge/Linux-Fedora-1E2328?style=flat&logo=linux&logoColor=white)](https://getfedora.org/)
   [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB5B5B?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
   [![RISC OS](https://img.shields.io/badge/RISC_OS-9B4F96?style=flat&logo=risc-os&logoColor=white)](https://www.riscosopen.org/)
 
 ## 🧰 Development Tools
   I’ve worked extensively with text editors like **Sublime Text**, **jEdit**, **SciTE**, **Visual Studio Code**, **Pulsar (Atom)**, and **Vim**.
+  
   [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
   [![jEdit](https://img.shields.io/badge/jEdit-1C2A2C?style=flat&logo=jedit&logoColor=white)](https://www.jedit.org/)
   [![SciTE](https://img.shields.io/badge/SciTE-2D537D?style=flat&logo=scite&logoColor=white)](https://www.scintilla.org/SciTE.html)
@@ -39,11 +46,13 @@ I’m a software developer with a broad skill set, specializing in low-level sys
 
 ## 🗂️ CMSs
   Familiar with [**Joomla**](https://www.joomla.org/) and [**WordPress**](https://wordpress.org/), having built and managed multiple website using these platforms.
+  
   [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.org/)
   [![Joomla](https://img.shields.io/badge/Joomla-5F5F5F?style=flat&logo=joomla&logoColor=white)](https://www.joomla.org/)
 
 ## 🧩 Open Source
   I’m a strong advocate for open-source software and actively contribute to various projects.
+  
   [![Open Source](https://img.shields.io/badge/Open%20Source-FF9B00?style=flat&logo=open-source-initiative&logoColor=white)](https://opensource.org/)
 
 ## ⚙️ Approach to Development
