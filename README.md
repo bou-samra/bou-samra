@@ -81,10 +81,13 @@ SDL is a tool I frequently use for creating games, but I have also worked with a
   
   [![Open Source](https://img.shields.io/badge/Open%20Source-FF9B00?style=flat&logo=open-source-initiative&logoColor=white)](https://opensource.org/)
 
-## ⚙️ Approach to Development  
-I work across different levels of the software stack, focusing on both performance improvements and system-level tasks. My experience with **C** and **assembly** helps me understand system behavior at a fundamental level, enabling me to write more efficient code.
+## ⚙️ Approach to Development   
+I take a hands-on, foundational approach to software development, working across all layers of the stack—from the low-level intricacies of microprocessors to high-level applications. My experience with **C** and **assembly** allows me to write code that interacts directly with hardware while keeping things efficient and straightforward.
 
-I prefer **C** for its flexibility and efficiency but am comfortable using various programming languages to tackle different challenges.
+I prefer not to lean on frameworks or external libraries unless absolutely necessary. Instead, I focus on writing custom code, tailored specifically to the project, which minimizes dependencies and keeps the system lean. By avoiding unnecessary layers and bloat, I can maintain full control over performance and resource usage, ensuring that the solution is as efficient as possible.
+
+Working with tools like the **GNU toolchain** helps streamline my development process, but my approach remains grounded in simplicity—writing code that does exactly what it needs to, without unnecessary complexity. For me, it’s all about understanding the system at its core and building solutions that are both functional and efficient.
+
 
 ## 🌱 I’m currently learning...
 - Machine Learning and AI concepts
