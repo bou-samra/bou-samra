@@ -12,24 +12,39 @@ I’m a software developer with a broad skill set, specializing in low-level sys
   [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
   [![Ada](https://img.shields.io/badge/Ada-003B57?style=flat&logo=ada&logoColor=white)](https://en.wikipedia.org/wiki/Ada_(programming_language))
 
-## 🖥️ Platforms
-  Some of the platforms I have worked on:
-  
-  [![Amiga](https://img.shields.io/badge/Amiga-ED1C24?style=flat&logo=amiga&logoColor=white)](https://en.wikipedia.org/wiki/Amiga)
-  [![Apple IIGS](https://img.shields.io/badge/Apple_IIGS-888888?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Apple_IIGS)
-  [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
-  [![x86_64](https://img.shields.io/badge/x86_64-1E90FF?style=flat&logo=none&logoColor=white)](https://en.wikipedia.org/wiki/X86_64)
-  [![ARM](https://img.shields.io/badge/ARM-009C95?style=flat&logo=arm&logoColor=white)](https://www.arm.com/)
-  [![ASM 6502](https://img.shields.io/badge/ASM-6502-FFB74D?style=flat&logo=chip&logoColor=white)](https://en.wikipedia.org/wiki/MOS_Technology_6502)
-  [![ASM 65816](https://img.shields.io/badge/ASM-65816-FF7043?style=flat&logo=chip&logoColor=white)](https://en.wikipedia.org/wiki/WDC_65C816)
-  [![ASM 68000](https://img.shields.io/badge/ASM-68000-FFA073?style=flat&logo=chip&logoColor=white)](https://en.wikipedia.org/wiki/Motorola_68000)
+## 🖥️ Platforms  
+Some of the platforms I have worked on:
 
-## 💾 Operating Systems
-  Proficient in UNIX-based systems, including **Linux** (Fedora) and **FreeBSD**
+[![Amiga](https://img.shields.io/badge/Amiga-ED1C24?style=flat&logo=amiga&logoColor=white)](https://en.wikipedia.org/wiki/Amiga)  
+[![Apple IIGS](https://img.shields.io/badge/Apple_IIGS-888888?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Apple_IIGS)  
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)  
+[![PC](https://img.shields.io/badge/PC-0078D4?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Personal_computer)
 
-  [![Linux](https://img.shields.io/badge/Linux-Fedora-1E2328?style=flat&logo=linux&logoColor=white)](https://getfedora.org/)
-  [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB5B5B?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
-  [![RISC OS](https://img.shields.io/badge/RISC_OS-9B4F96?style=flat&logo=risc-os&logoColor=white)](https://www.riscosopen.org/)
+
+  ## 🖥️ **Instruction Set Architectures (ISAs)**  
+Proficient in low-level programming, system design, and hardware interfacing across a wide range of **ISAs**. Experienced in optimizing code, managing memory hierarchies, and leveraging architectural features for maximum efficiency.
+
+- **6502** – Classic 8-bit microprocessor used in early home computers and gaming consoles.
+- **65816** – 16-bit extension of the 6502, providing backward compatibility and expanded addressing.
+- **68000** – 16/32-bit CISC architecture popular in personal computers, game consoles, and embedded systems.
+- **6809** – 8-bit microprocessor with powerful addressing modes, used in embedded systems and early PCs.
+- **ARM** – Widely used RISC architecture powering mobile devices, embedded systems, and modern servers (ARMv7, ARMv8, ARM64).
+- **x86** – Industry-standard CISC architecture used in desktops, servers, and high-performance computing (32-bit variants).
+- **x64 (AMD64/Intel 64)** – 64-bit extension of the x86 architecture, used in modern PCs, servers, and workstations. Expertise in 64-bit computing.
+
+[![6502](https://img.shields.io/badge/6502-8E9A94?style=flat&logo=chip&logoColor=white)](https://en.wikipedia.org/wiki/6502) [![65816](https://img.shields.io/badge/65816-7F3D3D?style=flat&logo=chip&logoColor=white)](https://en.wikipedia.org/wiki/WDC_65C816) [![68000](https://img.shields.io/badge/68000-005EB8?style=flat&logo=chip&logoColor=white)](https://en.wikipedia.org/wiki/Motorola_68000) [![6809](https://img.shields.io/badge/6809-4F1D56?style=flat&logo=chip&logoColor=white)](https://en.wikipedia.org/wiki/Motorola_6809) [![ARM](https://img.shields.io/badge/ARM-1E7D58?style=flat&logo=arm&logoColor=white)](https://www.arm.com/) [![x86](https://img.shields.io/badge/x86-00529B?style=flat&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/X86) [![x64](https://img.shields.io/badge/x64-003B56?style=flat&logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/X86-64)
+
+
+## 💾 Operating Systems  
+Skilled in navigating and optimizing a diverse range of **operating systems**, from classic platforms to modern innovations.
+
+- **Linux** (Fedora)  
+- **FreeBSD**  
+- **AmigaOS**  
+- **GS/OS**
+
+[![Linux](https://img.shields.io/badge/Linux-Fedora-1E2328?style=flat&logo=linux&logoColor=white)](https://getfedora.org/) [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB5B5B?style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/) [![RISC OS](https://img.shields.io/badge/RISC_OS-9B4F96?style=flat&logo=risc-os&logoColor=white)](https://www.riscosopen.org/) [![AmigaOS](https://img.shields.io/badge/AmigaOS-FF6200?style=flat&logo=amiga&logoColor=white)](https://www.amigaforever.com/) [![GS/OS](https://img.shields.io/badge/GS_OS-0063B1?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/GS/OS)
+
 
 ## 🧰 Development Tools
 
@@ -45,9 +60,12 @@ I have extensive experience with various text editors and integrated development
 
 
 ## 🎮 Game Development
-  [![SDL](https://img.shields.io/badge/SDL-1E2328?style=flat&logo=gamepad&logoColor=white)](https://www.libsdl.org/) is a tool I frequently use for creating games, but I have also worked with a range of other development libraries.
+SDL is a tool I frequently use for creating games, but I have also worked with a range of other development libraries.
+- **SDL**: Simple DirectMedia Layer 2/3
 
-### 🌐 Web & Internet Technologies
+[![SDL](https://img.shields.io/badge/SDL-1E2328?style=flat&logo=gamepad&logoColor=white)](https://www.libsdl.org/)
+
+## 🌐 Web & Internet Technologies
 
 - **VPS Management**: Provisioning, configuration, and optimization of Virtual Private Servers for web applications.
 - **Web Server Admin**: Deployment and optimization of Apache servers, with troubleshooting expertise.
