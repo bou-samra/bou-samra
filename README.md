@@ -15,10 +15,7 @@ I’m a software developer with a broad skill set, specializing in low-level sys
 ## 🖥️ Platforms  
 Some of the platforms I have worked on:
 
-[![Amiga](https://img.shields.io/badge/Amiga-ED1C24?style=flat&logo=amiga&logoColor=white)](https://en.wikipedia.org/wiki/Amiga)  
-[![Apple IIGS](https://img.shields.io/badge/Apple_IIGS-888888?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Apple_IIGS)  
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)  
-[![PC](https://img.shields.io/badge/PC-0078D4?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Personal_computer)
+[![Amiga](https://img.shields.io/badge/Amiga-ED1C24?style=flat&logo=amiga&logoColor=white)](https://en.wikipedia.org/wiki/Amiga) [![Apple IIGS](https://img.shields.io/badge/Apple_IIGS-888888?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Apple_IIGS) [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/) [![PC](https://img.shields.io/badge/PC-0078D4?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Personal_computer)
 
 
   ## 🖥️ **Instruction Set Architectures (ISAs)**  
@@ -84,10 +81,10 @@ SDL is a tool I frequently use for creating games, but I have also worked with a
   
   [![Open Source](https://img.shields.io/badge/Open%20Source-FF9B00?style=flat&logo=open-source-initiative&logoColor=white)](https://opensource.org/)
 
-## ⚙️ Approach to Development
-I enjoy addressing challenges across all levels of the software stack, from optimizing code for performance to exploring the intricacies of retro systems to understand their inner workings. Whether working with modern systems or resource-constrained environments, I find satisfaction in solving practical problems and improving efficiency.
+## ⚙️ Approach to Development  
+I work across different levels of the software stack, focusing on both performance improvements and system-level tasks. My experience with **C** and **assembly** helps me understand system behavior at a fundamental level, enabling me to write more efficient code.
 
-I prefer **C** for its flexability and efficiency, but I have experience with a range of programming languages, giving me flexibility in how I approach development tasks. I’m also passionate about **open-source software**—the freedom to collaborate and share knowledge is what drives innovation.
+I prefer **C** for its flexibility and efficiency but am comfortable using various programming languages to tackle different challenges.
 
 ## 🌱 I’m currently learning...
 - Machine Learning and AI concepts
